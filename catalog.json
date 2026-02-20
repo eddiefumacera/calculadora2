@@ -1,0 +1,53 @@
+{
+  "fac_name": "TROPA DA LB",
+  "materials": {
+    "a": "Material A",
+    "b": "Material B",
+    "c": "Material C",
+    "d": "Material D",
+    "e": "Material E"
+  },
+  "item_names": {},
+  "category_names": {},
+  "items": [
+    {
+      "id": "item_01",
+      "name": "Item 01",
+      "category": "Categoria 1",
+      "value_k": 100,
+      "recipe": {
+        "a": 1,
+        "b": 2,
+        "c": 0,
+        "d": 0,
+        "e": 0
+      }
+    },
+    {
+      "id": "item_02",
+      "name": "Item 02",
+      "category": "Categoria 1",
+      "value_k": 150,
+      "recipe": {
+        "a": 0,
+        "b": 1,
+        "c": 3,
+        "d": 0,
+        "e": 0
+      }
+    },
+    {
+      "id": "item_03",
+      "name": "Item 03",
+      "category": "Categoria 2",
+      "value_k": 200,
+      "recipe": {
+        "a": 2,
+        "b": 0,
+        "c": 1,
+        "d": 1,
+        "e": 0
+      }
+    }
+  ]
+}
